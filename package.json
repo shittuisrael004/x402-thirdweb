@@ -10,12 +10,13 @@
   },
   "dependencies": {
     "@reown/appkit": "^1.8.15",
-    "@thirdweb-dev/react": "^4.9.4",
-    "@thirdweb-dev/sdk": "^4.0.99",
+    "@thirdweb-dev/react": "^3.13.1",
+    "@thirdweb-dev/sdk": "^4.0.73",
     "ethers": "^5.8.0",
     "next": "16.1.1",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "thirdweb": "^5.116.1"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
