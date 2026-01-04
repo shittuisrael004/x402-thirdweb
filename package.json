@@ -9,6 +9,9 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@thirdweb-dev/react": "^4.9.4",
+    "@thirdweb-dev/sdk": "^4.0.99",
+    "ethers": "^5.8.0",
     "next": "16.1.1",
     "react": "19.2.3",
     "react-dom": "19.2.3"
